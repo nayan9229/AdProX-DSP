@@ -49,7 +49,7 @@ go run main.go
 Visit our [official documentation](https://github.com/nayan9229/AdProX-DSP/edit/main/README.md) for a detailed guide on setting up, managing campaigns, and integrating third-party services.
 
 ## 🙌 Contributing
-We welcome contributions! Please see our CONTRIBUTING.md for details.
+We welcome contributions! Please see our [CONTRIBUTING.md](https://raw.githubusercontent.com/nayan9229/AdProX-DSP/main/LICENSE) for details.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
