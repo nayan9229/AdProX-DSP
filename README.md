@@ -52,7 +52,7 @@ Visit our [official documentation](https://github.com/nayan9229/AdProX-DSP/edit/
 We welcome contributions! Please see our [CONTRIBUTING.md](https://raw.githubusercontent.com/nayan9229/AdProX-DSP/main/LICENSE) for details.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/nayan9229/AdProX-DSP/blob/main/LICENSE) file for details.
 
 ## 🤝 Contact
 I'm looking to integrate AdProX into your platform or would you like some help? Reach out at [nayanmevada@ymail.com].
